@@ -1,0 +1,15 @@
+{
+    "name": "ahlam/e-libraries",
+    "autoload": {
+        "psr-4": {
+            "App\\": "/app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahlam Mohmmed",
+            "email": "ahlam93mm@gmail.com"
+        }
+    ],
+    "require": {}
+}
